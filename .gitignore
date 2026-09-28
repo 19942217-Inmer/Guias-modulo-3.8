@@ -1,0 +1,19 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales
+*.tmp
+*.temp
+*.bak
+
+# Archivos de registro
+*.log
+
+# Configuración local de Visual Studio Code
+.vscode/
+
+# Archivos temporales de editores
+*.swp
+*.swo
